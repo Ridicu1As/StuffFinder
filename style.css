@@ -1,0 +1,23 @@
+html, body {
+    background-color: beige;
+    height: 100%;
+    width: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.result {
+    background-color: #a5e6e6;
+    padding: 10px;
+    border-radius: 5px;
+
+        border-bottom: 5px;
+}
+
+.result img {
+    width: 80%;
+    height: 25%;
+    object-fit: cover;
+    align-self: center;
+    border-radius: 5px;
+    box-shadow: 5px;
+}
