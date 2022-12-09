@@ -16,7 +16,7 @@ html, body {
 .result img {
     width: 80%;
     height: 25%;
-    object-fit: cover;
+    object-fit: contain;
     align-self: center;
     border-radius: 5px;
     box-shadow: 5px;
